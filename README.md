@@ -59,11 +59,10 @@
 
 ---
 
-### 📕 Latest Linkedin Posts
+<!-- ### 📕 Latest Linkedin Posts
+--- -->
 <!-- Linkedin:START -->
 <!-- Linkedin:END -->
-
----
 
 ### 🎧 Currently listening to
 [![Spotify](https://play-spotify-gursimar04.vercel.app/api/spotify)](https://open.spotify.com/user/ptwhskbsna4oyhutgb98zmgxz)
