@@ -1,13 +1,14 @@
-### Hi there, I'm Gursimar - aka [gursimar04][portfolio] 👋 
+### Hi there, I'm Gursimar Singh Bedi 👋 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2367B1F7&size=16&vCenter=true&width=200&height=14&lines=aka+gursimar04)][portfolio] 
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gursimar04@gmail.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/gursimar04?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=gursimar04)
 
-## I'm an inquistively pensive philomath with an inexplicable fondness towards programming!!
-
-- 🖼️👉🏽 Check out my new NFT Project 
-[<img alt="opensea"  width="22px" src="images/opensea.svg"/>](https://opensea.io/collection/mr-singh-2) [(mint)](https://mr-singh-dapp.herokuapp.com/)
+## I'm an inquistively pensive philomath with an inexplicable fondness for programming!!
 - 🧑🏽‍💻 I'm a budding software developer (SDE intern at Amazon).
 - 🌐🤖 I am intruiged by the fields of Web Development, Blockchain and AI
+- 🖼️👉🏽 Check out my new NFT Project at
+[<img alt="opensea"  width="15px" src="images/opensea.svg"/>](https://opensea.io/collection/mr-singh-2) or [<b>mint your own</b>](https://mr-singh-dapp.herokuapp.com/)
 - 🖼️📱 I’m looking to collaborate on freelance projects realted to Web Development, AI or NFTs
 - 🥅👯 2022 Goals: Put myself out there and connect with as many people as I can
 - 🎾⚽ Fun facts: I am a sports enthusiast (tennis,cricket & football),I play guitar & have a passion for writing
