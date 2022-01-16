@@ -46,9 +46,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Amazon Interview Experience for SDE I | 6-Months Internship/ FTE &lpar;On-Campus 2021&rpar;](https://medium.com/@gursimar04/amazon-interview-experience-for-sde-i-6-months-internship-fte-on-campus-2021-937c9c8a3c01?source=rss-4cff9ade2e86------2)
 - [Iterator Class For Inorder Traversal Of A Binary Tree](https://medium.com/@gursimar04/iterator-class-for-inorder-traversal-of-a-binary-tree-3cc182e75515?source=rss-4cff9ade2e86------2)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
 - [COVID -19 vs lockdown- which is more catastrophic?](https://medium.com/@gursimar04/covid-19-vs-lockdown-which-is-more-catastrophic-e66b50fa3a4b?source=rss-4cff9ade2e86------2)
-- [Microsoft Student Partners &lpar;Ambassadors&rpar; – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][medium]
