@@ -13,10 +13,10 @@
 
 ### Connect with me:
 [<img align="left" alt="gursimar04" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
-[<img align="left" alt="gursimar04 | LinkedIn" width="22px" style="background-color:#0A66C2" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="gursimar04 | LinkedIn" width="22px" style="filter:invert(25%) sepia(65%) saturate(2607%) hue-rotate(197deg) brightness(92%) contrast(92%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="gursimar04 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/medium.svg" />][medium]
-[<img align="left" alt="gursimar04 | Twitter" width="22px" style="background-color:#1DA1F2" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />][twitter]
-[<img align="left" alt="gursimar04 | Instagram" width="22px" style="background-color:#E4405F" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />][instagram]
+[<img align="left" alt="gursimar04 | Twitter" width="22px" style="filter:invert(46%) sepia(48%) saturate(756%) hue-rotate(159deg) brightness(107%) contrast(108%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />][twitter]
+[<img align="left" alt="gursimar04 | Instagram" width="22px" style="filter:invert(37%) sepia(49%) saturate(1695%) hue-rotate(314deg) brightness(91%) contrast(97%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />][instagram]
 
 <br />
 
