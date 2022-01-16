@@ -4,6 +4,8 @@
 
 ## I'm an inquistively pensive philomath with an inexplicable fondness towards programming!!
 
+- 🖼️👉🏽 Check out my new NFT Project 
+[<img alt="opensea"  width="22px" src="images/opensea.svg"/>](https://opensea.io/collection/mr-singh-2) [(mint)](https://mr-singh-dapp.herokuapp.com/)
 - 🧑🏽‍💻 I'm a budding software developer (SDE intern at Amazon).
 - 🌐🤖 I am intruiged by the fields of Web Development, Blockchain and AI
 - 🖼️📱 I’m looking to collaborate on freelance projects realted to Web Development, AI or NFTs
@@ -15,8 +17,6 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
 [<img align="left" alt="gursimar04 | Twitter" width="22px" src="images/twitter.svg" />][twitter]
 [<img align="left" alt="gursimar04 | Instagram" width="22px" src="images/instagram.svg" />][instagram]
-
-<br/>
 
 ### Languages and Tools:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -75,12 +75,12 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-      <img align="left" alt="gursimar04's GitHub Stats" src="https://github-readme-stats-gursimar04.vercel.app/api?username=gursimar04&show_icons=true&hide_border=true&theme=chartreuse-dark" />
+---
+
+### 📈 GitHub Stats
+<img align="left" alt="gursimar04's GitHub Stats" src="https://github-readme-stats-gursimar04.vercel.app/api?username=gursimar04&show_icons=true&hide_border=true&theme=chartreuse-dark" />
   <br/>
   <img align="left" alt="gursimar04's GitHub Stats" src="https://github-readme-stats-gursimar04.vercel.app/api/top-langs/?username=gursimar04&layout=compact&theme=chartreuse-dark" />
-</details>
 
 [twitter]: https://twitter.com/gursimar04
 [medium]: https://medium.com/@gursimar04
