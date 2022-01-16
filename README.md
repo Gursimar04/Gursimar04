@@ -1,4 +1,7 @@
+<img alt="banner" src='images/banner.png'/>
+
 ### Hi there, I'm Gursimar Singh Bedi 👋 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2367B1F7&size=16&vCenter=true&width=200&height=14&lines=aka+gursimar04)][portfolio] 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gursimar04@gmail.com)
@@ -80,6 +83,7 @@
 
 ### 📈 GitHub Stats
 <img align="left" alt="gursimar04's GitHub Stats" src="https://github-readme-stats-gursimar04.vercel.app/api?username=gursimar04&show_icons=true&hide_border=true&theme=chartreuse-dark" />
+  <br/>
   <br/>
   <img align="left" alt="gursimar04's GitHub Stats" src="https://github-readme-stats-gursimar04.vercel.app/api/top-langs/?username=gursimar04&layout=compact&theme=chartreuse-dark" />
 
