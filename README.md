@@ -63,6 +63,12 @@
 <!-- Linkedin:START -->
 <!-- Linkedin:END -->
 
+---
+
+### 🎧 Currently listening to
+[![Spotify](https://play-spotify-gursimar04.vercel.app/api/spotify)](https://open.spotify.com/user/ptwhskbsna4oyhutgb98zmgxz)
+
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -73,9 +79,9 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="gursimar04's GitHub Stats" src="https://github-readme-stats-gursimar04.vercel.app/api?username=gursimar04&show_icons=true&hide_border=true" />
-
+      <img align="left" alt="gursimar04's GitHub Stats" src="https://github-readme-stats-gursimar04.vercel.app/api?username=gursimar04&show_icons=true&hide_border=true&theme=chartreuse-dark" />
+  <br/>
+  <img align="left" alt="gursimar04's GitHub Stats" src="https://github-readme-stats-gursimar04.vercel.app/api/top-langs/?username=gursimar04&layout=compact&theme=chartreuse-dark" />
 </details>
 
 [twitter]: https://twitter.com/gursimar04
