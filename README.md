@@ -13,10 +13,10 @@
 
 ### Connect with me:
 [<img align="left" alt="gursimar04" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
-[<img align="left" alt="gursimar04 | LinkedIn" width="22px" style="color:#0A66C2" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="gursimar04 | LinkedIn" width="22px" style="background-color:#0A66C2" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="gursimar04 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/medium.svg" />][medium]
-[<img align="left" alt="gursimar04 | Twitter" width="22px" style="color:#1DA1F2" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />][twitter]
-[<img align="left" alt="gursimar04 | Instagram" width="22px" style="color:#E4405F" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />][instagram]
+[<img align="left" alt="gursimar04 | Twitter" width="22px" style="background-color:#1DA1F2" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />][twitter]
+[<img align="left" alt="gursimar04 | Instagram" width="22px" style="background-color:#E4405F" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />][instagram]
 
 <br />
 
