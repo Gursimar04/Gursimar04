@@ -8,7 +8,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/gursimar04?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=gursimar04)
 
 ## I'm an inquistively pensive philomath with an inexplicable fondness for programming!!
-- 🧑🏽‍💻 I'm a budding software developer (SDE intern at Amazon).
+- 🧑🏽‍💻 I'm a budding software developer (SDE 1 at Amazon).
 - 🌐🤖 I am intruiged by the fields of Web Development, Blockchain and AI
 - 🖼️👉🏽 Check out my new NFT Project at
 [<img alt="opensea"  width="15px" src="images/opensea.svg"/>](https://opensea.io/collection/mr-singh-2) or [<b>mint your own</b>](https://mr-singh-dapp.herokuapp.com/)
